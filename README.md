@@ -1,1 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Touch+some+grass.;)](https://git.io/typing-svg)
+ ___ ___            __                                  
+|   Y   .---.-.----|  |--.--.--.-----.-----.-----.-----.
+|.      |  _  |   _|    <|  |  |     |  _  |__ --|  -__|
+|. \_/  |___._|__| |__|__|___  |__|__|_____|_____|_____|
+|:  |   |                |_____|                        
+|::.|:. |                                               
+`--- ---'                                               
+                                                        
+the dev :p
